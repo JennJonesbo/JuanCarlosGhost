@@ -1,0 +1,32 @@
+Initialize engine version: 4.5.2f1 (9abb1b59b47c)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce RTX 2060 (ID=0x1f08)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\MoneyMaker\Creative fix  - Concept art\Concept ART\Juegos\Juan Carlos Ghost\JCGhost_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\MoneyMaker\Creative fix  - Concept art\Concept ART\Juegos\Juan Carlos Ghost\JCGhost_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\MoneyMaker\Creative fix  - Concept art\Concept ART\Juegos\Juan Carlos Ghost\JCGhost_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\MoneyMaker\Creative fix  - Concept art\Concept ART\Juegos\Juan Carlos Ghost\JCGhost_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.072 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Initialize engine version: 4.5.2f1 (9abb1b59b47c)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce RTX 2060 (ID=0x1f08)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\MoneyMaker\Creative fix  - Concept art\Concept ART\Juegos\Juan Carlos Ghost\JCGhost_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\MoneyMaker\Creative fix  - Concept art\Concept ART\Juegos\Juan Carlos Ghost\JCGhost_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\MoneyMaker\Creative fix  - Concept art\Concept ART\Juegos\Juan Carlos Ghost\JCGhost_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\MoneyMaker\Creative fix  - Concept art\Concept ART\Juegos\Juan Carlos Ghost\JCGhost_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.025 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
